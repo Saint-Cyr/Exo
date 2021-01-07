@@ -1,0 +1,19 @@
+{
+  "name": "exo2",
+  "version": "1.0.0",
+  "description": "an practical exercise",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saint-Cyr/Exo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saint-Cyr/Exo/issues"
+  },
+  "homepage": "https://github.com/Saint-Cyr/Exo#readme"
+}
